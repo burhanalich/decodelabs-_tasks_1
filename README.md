@@ -1,4 +1,4 @@
-# decodelabs-_tasks
+# decodelabs-_tasks_1
 
 This repository contains my Python programming tasks completed as part of the DecodeLabs assignment.
 
