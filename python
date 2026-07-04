@@ -1,0 +1,9 @@
+my_tasks = []
+my_tasks.append("Buy Milk")
+my_tasks.append("Buy bread")
+my_tasks.append("Buy eggs")
+
+for task in my_tasks:
+    print(task)
+
+    
